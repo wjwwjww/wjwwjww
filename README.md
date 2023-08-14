@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjwwjww&show_icons=true&theme=shades-of-purple)
 
-![](https://img.shields.io/badge/Github-FW-534499)![](https://img.shields.io/badge/学习-摸鱼大王-7A15C1)![](https://img.shields.io/badge/考试-摆烂先锋-0D8291)
+![](https://img.shields.io/badge/Github-FW-534499?labelColor=CB9617)![](https://img.shields.io/badge/学习-摸鱼大王-7A15C1?labelColor=20BC88)![](https://img.shields.io/badge/考试-摆烂先锋-0D8291?labelColor=E4320F)
 
