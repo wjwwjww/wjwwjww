@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wjwwjww/wjwwjww/output/github-contribution-grid-snake.svg">
 </picture>
 
-![wjww's github activity graph](https://raw.githubusercontent.com/wjwwjww/wjwwjww/output/github-contribution-grid-snake.svg)
+![wjww's github activity graph](https://raw.githubusercontent.com/wjwwjww/wjwwjww/output/github-contribution-Snake in profile.svg)
+
 
 
 
