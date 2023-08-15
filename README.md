@@ -42,6 +42,14 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=wjwwjww.wjwwjww&left_color=DarkTurquoise&right_color=RoyalBlue&left_text=访%20客%20量%20) 
 
+
+<img src="https://count.getloli.com/get/@wjwwjww.github.readme?theme=moebooru" alt="wjwwjww" />
+<img src="https://count.getloli.com/get/@wjwwjww.github.readme?theme=moeboory-h" alt="wjwwjww" />
+<img src="https://count.getloli.com/get/@wjwwjww.github.readme?theme=rule34" alt="wjwwjww" />
+<img src="https://count.getloli.com/get/@wjwwjww.github.readme?theme=gelbooru" alt="wjwwjww" />
+<img src="https://count.getloli.com/get/@wjwwjww.github.readme?theme=gelbooru-h" alt="wjwwjww" />
+
+
 -->
 
 
@@ -50,7 +58,12 @@ Counter:
 <img src="https://profile-counter.glitch.me/wjwwjww/count.svg">  
 
 
-![](https://count.getloli.com/get/@wjwwjww.github.readme)
+
+
+
+
+<img src="https://count.getloli.com/get/@wjwwjww.github.readme?theme=asoul" alt="wjwwjww" />
+
 
 
 
