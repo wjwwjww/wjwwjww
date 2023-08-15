@@ -23,8 +23,7 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wjwwjww/wjwwjww/output/github-contribution-grid-snake.svg">
 </picture>
 
-![wjwwjww's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjwwjww&show_icons=true&itle_color=fff&bg_color=10,e96443,904e95&amp&icon_color=b362ff)
-
+![wjwwjww's GitHub stats](https://my-repository-nu-indol.vercel.app/api?username=wjwwjww&show_icons=true&itle_color=fff&bg_color=10,e96443,904e95&amp&icon_color=b362ff,2d2b55,c792ea)
 
 
 
