@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Random jokes:
+
+<a>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wjwwjww/wjwwjww/output/github-contribution-grid-snake-dark.svg">
