@@ -45,10 +45,12 @@ Here are some ideas to get you started:
 -->
 
 
-
+Counter:
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/wjwwjww/count.svg">  
 
+
+![](https://count.getloli.com/get/@wjwwjww.github.readme)
 
 
 
