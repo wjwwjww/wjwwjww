@@ -84,3 +84,7 @@ Counter:
 
 <!---
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312sufu4ikybtqcidesc2icwec24&cover_image=false&theme=default&show_offline=false&background_color=080202&interchange=true&bar_color=c723b2&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=312sufu4ikybtqcidesc2icwec24&redirect=true)  --->
+
+
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5793ves9d5k&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1" async="async"></script>
