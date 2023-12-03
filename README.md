@@ -86,4 +86,4 @@ Counter:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312sufu4ikybtqcidesc2icwec24&cover_image=false&theme=default&show_offline=false&background_color=080202&interchange=true&bar_color=c723b2&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=312sufu4ikybtqcidesc2icwec24&redirect=true)  --->
 
 
-
+<a href="https://www.revolvermaps.com/livestats/5udb6f15vq8/"><img src="//rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5udb6f15vq8.png" width="256" height="128" alt="Map" style="border:0;"></a>
