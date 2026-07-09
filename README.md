@@ -82,8 +82,3 @@ Counter:
 <p align="center">
 <img src="https://camo.githubusercontent.com/9d9a31cc17b1d9d8fcd6d27b252d4a204865f084684fd842aa1b900a879e2ed4/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d3331327375667534696b79627471636964657363326963776563323426636f7665725f696d6167653d66616c7365267468656d653d64656661756c742673686f775f6f66666c696e653d66616c7365266261636b67726f756e645f636f6c6f723d30383032303226696e7465726368616e67653d74727565266261725f636f6c6f723d633732336232266261725f636f6c6f725f636f7665723d74727565" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=312sufu4ikybtqcidesc2icwec24&amp;cover_image=false&amp;theme=default&amp;show_offline=false&amp;background_color=080202&amp;interchange=true&amp;bar_color=c723b2&amp;bar_color_cover=true" style="max-width: 100%;"> </p>
 
-<!---
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312sufu4ikybtqcidesc2icwec24&cover_image=false&theme=default&show_offline=false&background_color=080202&interchange=true&bar_color=c723b2&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=312sufu4ikybtqcidesc2icwec24&redirect=true)  --->
-
-
-
